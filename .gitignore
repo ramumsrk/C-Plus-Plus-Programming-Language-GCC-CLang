@@ -1,0 +1,5 @@
+# Ignore `bin/' directory tree
+# where compiled and linked object
+# files with extension `*.o' are
+# stored
+bin/
