@@ -1,0 +1,1 @@
+# Video 00006  Visual Studio 2017 Installation DEPRECATED
